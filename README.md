@@ -4,94 +4,112 @@
 
 ---
 
-## 🚀 About Me
-
-I am a Data Analytics professional with hands-on experience in SQL, Python, Power BI, and Tableau.
-I specialize in transforming raw data into actionable insights that support business decision-making.
-
-✔️ Strong in data cleaning, transformation, and analysis
-✔️ Experience building dashboards and analytical solutions
-✔️ Interested in Risk Analytics, Consulting & Data-driven Strategy
+<h1 align="center">Hi 👋, I'm Vivek Raj</h1>
+<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Tableau</h3>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me:
 
-**Programming:**
+* 🔭 I’m currently working on
+  **End-to-End Data Analytics Projects & SQL Business Case Studies**
 
-* Python, SQL
+* 🤝 I’m looking to collaborate on
+  **Data Analytics Projects, Dashboard Development, Business Insights**
 
-**Data Analysis & Visualization:**
+* 💬 Ask me about
+  **SQL, Python, Power BI, Tableau, Data Cleaning, EDA, KPI Reporting**
 
-* Power BI (DAX), Tableau, Excel
+* 🌱 I’m currently learning
+  **Advanced SQL, Data Storytelling, and Business Analytics**
 
-**Data Processing:**
-
-* Data Cleaning, Data Transformation
-* Exploratory Data Analysis (EDA)
-* ETL Concepts
-
-**Libraries & Tools:**
-
-* Pandas, NumPy
-* AWS S3 (Basic Data Handling)
+* ⚡ Fun fact
+  **I enjoy finding insights in messy data and turning them into decisions 📊**
 
 ---
 
-## 📊 Featured Projects
+## 🌐 Socials:
 
-### 🍽️ Zomato Data Analysis
+<p>
+<a href="https://www.linkedin.com/in/vivek-raj-60a6341bb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:rajvivek871@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/Vivek871"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+### 🧠 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+### 📊 Data Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+---
+
+### 🔧 Libraries & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+## 📊 Featured Projects:
+
+### 🍽️ Zomato Business Analysis
 
 🔗 https://github.com/Vivek871/Zomato-Data-Analysis-Using-Python
-
-* Performed EDA on 10,000+ records to identify customer behavior
-* Cleaned and transformed raw datasets using Python
-* Generated business insights to support decision-making
+✔️ EDA on 10K+ records
+✔️ Data cleaning & transformation
+✔️ Business insights for decision-making
 
 ---
 
 ### 📈 Super Store Sales Dashboard
 
 🔗 https://github.com/Vivek871/Super-Store-Sales-Analysis-Dashboard
-
-* Built interactive Power BI dashboards for KPI tracking
-* Used DAX & Power Query for data modeling and transformation
-* Enabled automated and self-service reporting
+✔️ Interactive Power BI dashboard
+✔️ KPI tracking & automation
+✔️ Data modeling using DAX
 
 ---
 
 ### 🔐 Phishing Detection Classifier
 
 🔗 https://github.com/Vivek871/project-phishing-classifier
-
-* Developed ML model to detect phishing URLs/emails
-* Performed feature engineering & preprocessing
-* Evaluated models using accuracy, precision & recall
-
----
-
-## 📜 Certifications
-
-* Data Analyst Certification – PwSkills (2026)
-* Deloitte Data Analytics Virtual Experience (Forage)
+✔️ ML-based fraud detection
+✔️ Feature engineering & preprocessing
+✔️ Model evaluation (precision, recall)
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 📈 GitHub Stats:
 
-* Building industry-level SQL & analytics projects
-* Improving data storytelling & dashboard design
-* Exploring advanced analytics & business problem-solving
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek871&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek871&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Certifications:
+
+* 🎓 Data Analyst Certification – PwSkills (2026)
+* 💼 Deloitte Data Analytics Virtual Experience – Forage
 
 ---
 
-## 📫 Connect With Me
+<h3 align="center">⚡ Turning Data into Actionable Insights ⚡</h3>
 
-📧 Email: [rajvivek871@gmail.com](mailto:rajvivek871@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/vivek-raj-60a6341bb
-💻 GitHub: https://github.com/Vivek871
-
----
 
 ⭐ *“Data is not just numbers, it's the story behind business decisions.”*
 
