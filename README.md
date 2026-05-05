@@ -1,9 +1,3 @@
-# Hi, I'm Vivek Raj 👋
-
-🎓 MCA Graduate | 📊 Data Analyst | 💡 Turning Data into Business Insights
-
----
-
 <h1 align="center">Hi 👋, I'm Vivek Raj</h1>
 <h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Tableau</h3>
 
@@ -40,14 +34,14 @@
 
 ## 💻 Tech Stack:
 
-### 🧠 Programming
+### 🧠 Programming & Query Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analysis & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
@@ -55,13 +49,44 @@
 
 ---
 
+### 🧹 Data Processing & ETL
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-2196F3?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-FF9800?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-9C27B0?style=for-the-badge)
+
+---
+
+### 📈 Analytics & Concepts
+
+![EDA](https://img.shields.io/badge/EDA-00BCD4?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-3F51B5?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-795548?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-607D8B?style=for-the-badge)
+
+---
+
 ### 🔧 Libraries & Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 
 ---
+
+### ☁️ Cloud & Data Platforms
+
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
 
 ## 📊 Featured Projects:
 
